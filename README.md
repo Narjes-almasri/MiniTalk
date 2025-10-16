@@ -11,7 +11,7 @@ The communication occurs over a single “virtual wire” created by signal tran
 The project’s main goal is to understand **low-level interprocess communication (IPC)** and synchronization using only `SIGUSR1` and `SIGUSR2`.
 
 <p align="center">
-  <img src="94b12faa-20c1-4645-bb59-16b377be2423.png" alt="Minitalk communication protocol diagram" width="700">
+  <img src="https://github.com/Narjes-almasri/MiniTalk/blob/main/img/client.webp" alt="Minitalk communication protocol diagram" width="700">
 </p>
 
 ---
